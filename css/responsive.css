@@ -1,0 +1,163 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .mk-single-slider.slider-heihgt {
+        height: 800px;
+    }
+
+    .main-menu ul li {
+        margin-left: 40px;
+    }
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .mk-header-top-area {
+        padding: 0 20px;
+    }
+
+    .mk-header-bottom-area {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .main-menu ul li {
+        margin-left: 30px;
+    }
+
+    .mk-header-button {
+        margin-left: 30px;
+    }
+
+    .mk-header-button a {
+        padding: 14px 20px;
+        border-radius: 25px;
+    }
+
+    .wrapper-box {
+        padding: 0 15px;
+    }
+
+    .mk-single-slider.slider-heihgt {
+        height: 600px;
+    }
+
+    .mk-slider-img>img {
+        width: 100%;
+    }
+
+    .mk-silgle-features {
+        padding: 0 0px;
+    }
+
+    .mk-promotion-text {
+        padding-left: 30px;
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .mk-blog-inner h4 {
+        font-size: 20px;
+    }
+
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .mk-header-bottom-area {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .mk-single-slider.slider-heihgt {
+        height: 550px;
+    }
+
+    .mk-silgle-features {
+        padding: 0;
+    }
+
+    .mk-silgle-features h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .mk-promotion-text {
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .wrapper-box {
+        padding: 0 20px;
+    }
+}
+
+/* Extra Small Device :1200px. */
+@media (max-width: 767px) {
+
+    .mk-header-top-area {
+        padding: 0 20px;
+    }
+
+    .mk-header-bottom-area {
+        padding: 5px 20px;
+        padding-top: 10px;
+    }
+
+    .wrapper-box {
+        padding: 0 15px;
+    }
+
+    .mk-single-slider.slider-heihgt {
+        height: 500px;
+    }
+
+    .mk-slider-content h1 {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    .mk-slider-content span {
+        letter-spacing: 4px;
+    }
+
+    .features-title h2 {
+        font-size: 35px;
+    }
+
+    .mk-promotion-text {
+        padding-left: 0;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .portfolio-menu>button {
+        margin: 0 -2px;
+        margin-bottom: 4px;
+    }
+
+    .mk-cap img {
+        width: 100%;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        padding: 8px 8px 8px 8px;
+    }
+
+    .extra-info {
+        width: 100%;
+    }
+
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .extra-info {
+        width: 70%;
+    }
+
+}
